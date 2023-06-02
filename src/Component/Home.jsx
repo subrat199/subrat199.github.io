@@ -168,7 +168,7 @@ const Home = () => {
           }}
           borderRadius={"50%"}
           m={"1rem"}
-          src="SUBRAT-update.png"
+          src="SUBRAT-Update.png"
         ></Image>
       </HStack>
     </Box>
