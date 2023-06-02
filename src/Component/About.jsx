@@ -37,12 +37,7 @@ const About = () => {
             id="user-detail-intro"
             color={"white"}
           >
-            A self-motivated and hard-working full stack web developer with
-            proficiency in JavaScript. Adaptable and accountable team
-            player,driven to deliver the best in any situation. Looking forward
-            to utilizing current skillset and experience of working on projects
-            tocreate a mark in the software industry and achieve organizational
-            goals.
+           A passionate Full Stack MERN Developer skilled in HTML, CSS, Javascript and React, with a focus on designing and building high-performance and scalable enterprise applications
           </Text>
         </Box>
       </Box>

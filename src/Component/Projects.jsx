@@ -22,12 +22,12 @@ const Responsive_Projects = [
 
     mobile_screenshot: "AppleMobile.png",
 
-    title: "Apple.com",
+    title: "Ibuy.com",
 
     clone: "clone : Apple",
 
     description:
-      "It is an e-commerce website through you can purchase only apple related products.",
+      "Ibuy is the clone of Apple which is  an ecommerce platform which sells products like Apple watcch,Apple Mobile,Ipad,Airpods etc.",
 
     tech_stack: [
       { skill: "HTML.png", w: "20px" },
@@ -52,7 +52,7 @@ const Responsive_Projects = [
     clone: "clone : Bigbasket",
 
     description:
-      "It is a leading Indian e-commerce platform that specializes in Home Grocories and cosmetics products.",
+      "GoMart is the clone of BigBasket is  a leading Indian e-commerce platform that specializes in Home Grocories and cosmetics products.",
 
     tech_stack: [
       { skill: "HTML.png", w: "20px" },
@@ -76,7 +76,7 @@ const Responsive_Projects = [
     clone: "clone : InternTheory",
 
     description:
-      "It is an Online study Platform Through you purchase any course and make your future better.",
+      "EasyLearn is the clone of InternTheory whiuch is  an Online study Platform Through you purchase any course and make your future better.",
 
     tech_stack: [
       { skill: "HTML.png", w: "20px" },
@@ -103,7 +103,7 @@ const non_Responsive_Projects = [
     clone: "clone : ShopClues",
 
     description:
-      "It is an ecommerce website through which you can purcahse any Products and find more products in day today life.",
+      "EasyShopping is the clone of ShopClues which  is an ecommerce website through which you can purcahse any Products and find more products in day today life.",
 
     tech_stack: [
       { skill: "HTML.png", w: "20px" },
