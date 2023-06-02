@@ -5,8 +5,7 @@ const About = () => {
   return (
     <div>
       <Box
-        border={"1px solid red"}
-        h="70vh"
+        h="90vh"
         id="about"
         className="about section"
         // mb="100px"
